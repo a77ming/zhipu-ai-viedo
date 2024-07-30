@@ -13,11 +13,11 @@
 **项目结构**
 
 
-ai-video-project/
-├── index.html
-├── style.css
-├── index.js
-├── README.md
+- ai-video-project/
+- ├── index.html
+- ├── style.css
+- ├── index.js
+- ├── README.md
 
 
 **安装和运行**
@@ -52,7 +52,7 @@ cd ai-video-project
 - 前端：HTML, CSS, JavaScript
 
 **截图**
-<img src="41722321725_.pic.jpg" alt="Screenshot">
+<img src="https://project-resource.oss-cn-beijing.aliyuncs.com/object/show.jpg" alt="Screenshot">
 
 **贡献**
 
