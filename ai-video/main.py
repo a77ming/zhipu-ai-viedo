@@ -13,7 +13,7 @@ def home():
     return send_from_directory(app.static_folder, 'index.html')
 
 # 请填写您自己的APIKey
-api_key = "6e6103aaaaaaaaaaaaaaaaaaa"  # 请替换为你的实际API Key
+api_key = "6e6103db3ed970f9ef30d3ea5582dd40.ggCE9O29KxwGAiZF"  # 请替换为你的实际API Key
 client = ZhipuAI(api_key=api_key)
 
 def generate_video(prompt):
